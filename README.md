@@ -13,7 +13,6 @@ Step 2: Create Table name customer
 // Create a database 
 CREATE DATABASE BANK; 
 
-
 // Create table
 CREATE TABLE `customer` (
 
